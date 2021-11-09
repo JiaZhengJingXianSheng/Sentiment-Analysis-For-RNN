@@ -37,7 +37,7 @@ outs = self.decoder(encoding)
 
 ### **训练情况如下**
 
-![I8KfsO.png](https://z3.ax1x.com/2021/11/08/I8KfsO.png)
+![ItZBnS.png](https://z3.ax1x.com/2021/11/09/ItZBnS.png)
 
 用训练好的模型预测两个简单的句子
 
@@ -58,3 +58,5 @@ predict_sentiment(net, vocab, 'this movie is so bad')
 # 参考链接
 
 https://d2l.ai/chapter_natural-language-processing-applications/sentiment-analysis-rnn.html
+
+
